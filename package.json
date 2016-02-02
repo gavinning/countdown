@@ -1,0 +1,28 @@
+{
+  "name": "node-countdown",
+  "version": "0.1.0",
+  "description": "term countdown",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gavinning/countdown.git"
+  },
+  "keywords": [
+    "countdown",
+    "node-countdown",
+    "倒计时"
+  ],
+  "author": "gavinning",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/gavinning/countdown/issues"
+  },
+  "homepage": "https://github.com/gavinning/countdown#readme",
+  "dependencies": {
+    "aimee-class": "^1.2.0",
+    "countdown": "^2.6.0"
+  }
+}
